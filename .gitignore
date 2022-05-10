@@ -1,0 +1,6 @@
+# debug file
+cmake-build*
+
+# IDE
+.idea
+.vscode
